@@ -1,0 +1,9 @@
+minilab/
+
+*~
+*.pdf
+*.pyc
+*.egg-info/
+*pycache*
+*.DS_Store
+*._*
